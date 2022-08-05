@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WCOGEO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WCOGEO\\.nuget\\packages"
+    ]
+  }
+}
